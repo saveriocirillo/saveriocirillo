@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saveriocirillo
 - 👀 I’m interested in Tech Writing and running
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning OpenAPI Specification
 - 📫 How to reach me ...
 - ⚡ Fun fact: there are no fun facts :(
