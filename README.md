@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @saveriocirillo
-- 👀 I’m interested in Tech Writing and running
+- 👀 I’m interested in Tech Writing and trail running
 - 🌱 I’m currently learning OpenAPI Specification
-- 📫 How to reach me ...
-- ⚡ Fun fact: there are no fun facts :(
+- ⚡ Fun fact: I speak Italian, English and Polish.
