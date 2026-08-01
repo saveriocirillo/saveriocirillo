@@ -2,7 +2,7 @@
 
 Senior Technical Writer, based in southern Poland, originally from Italy.
 
-When I'm not writing docs, I'm on the trails or on a tennis court.
+When I'm not tech writing docs, I'm on the trails or on a tennis court.
 
 - 🌐 [ksawery.io](https://ksawery.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saverio-cirillo)
