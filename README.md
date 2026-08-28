@@ -9,6 +9,6 @@ When I'm not writing tech docs, I'm on the trails or on a tennis court.
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/saveriocirillo/obronow/pull/1) in [saveriocirillo/obronow](https://github.com/saveriocirillo/obronow)
-2. 🎉 Merged PR [#3](https://github.com/saveriocirillo/ksawery.io/pull/3) in [saveriocirillo/ksawery.io](https://github.com/saveriocirillo/ksawery.io)
+1. 🗣 Commented on [#1](https://github.com/saveriocirillo/obronow/pull/1#issuecomment-5449937243) in [saveriocirillo/obronow](https://github.com/saveriocirillo/obronow)
+2. 💪 Opened PR [#1](https://github.com/saveriocirillo/obronow/pull/1) in [saveriocirillo/obronow](https://github.com/saveriocirillo/obronow)
 <!--END_SECTION:activity-->
